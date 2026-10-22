@@ -1,1 +1,2 @@
 # EPP 2026–27 - In-Class Exercises 2
+The repository is a similar to a folder for git s.t we can modify or alter different files or data and save it in there. We also can share our repository with other or invite them to it. 
