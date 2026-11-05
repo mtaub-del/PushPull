@@ -1,0 +1,8 @@
+[tool.pixi.workspace]
+name = "epp_term_course_in_class_4"
+platforms = [ "linux-64", "osx-64", "osx-arm64", "win-64" ]
+channels = [ "conda-forge", "nodefaults" ]
+
+[tool.pixi.dependencies]
+ipykernel = ">=6.29"
+python = "~=3.14.0"
